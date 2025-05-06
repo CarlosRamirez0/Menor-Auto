@@ -1,2 +1,2 @@
 # Menor-Auto
-Site criado como projeto de faculdade em equipe.
+Projeto desenvolvido para uma empresa MEI de serviços automotivos.
